@@ -5,7 +5,7 @@
 
 #### Technical Skills: Python, SQL, R, C++, MATLAB, TensorFlow, Power BI, Tableau, Pandas, Numpy, Matplotlib, Seaborn
 
-- ## Projects
+## Projects
 **Smart Conservatory**
 An IoT-based greenhouse automation system to eliminate the need for manual intervention, improving the quality of yield, and achieving maximum efficiency. 
 - Led the three-member team effectively and efficiently to complete the project a month before the final submission.
@@ -19,12 +19,12 @@ An IoT-based greenhouse automation system to eliminate the need for manual inter
 - Identified and visualized correlations between various factors such as weather conditions, road types, and accident severity, enabling data-driven insights for accident prevention strategies.
 - Developed interactive PowerBI dashboards to enhance data accessibility and facilitate data-driven decision-making.
 
-- **Vehicle Number Plate Detection**
+**Vehicle Number Plate Detection**
 A mobile application designed to enhance the independence and safety of partially impaired individuals by providing real-time obstacle detection, navigation assistance, and location tracking features.
 - Utilized Android Studio for implementation, integrating OpenCV for real-time image processing, and TensorFlow for efficient machine learning model inference on mobile devices.
 - Utilized Firebase for backend services, contributing to the development of a solution enhancing network security.
 
-- **Real-Time Amazon Price Tracker with Email Alerts**
+**Real-Time Amazon Price Tracker with Email Alerts**
 -	Developed a Python script using BeautifulSoup and requests to track Amazon product prices.
 -	Implemented logic for real-time price monitoring, triggering email alerts when prices fell below set thresholds.
 -	Integrated smtplib for email notifications and scheduled script automation using cron or AWS Lambda.
