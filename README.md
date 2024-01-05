@@ -6,7 +6,7 @@
 #### Technical Skills: Python, SQL, R, C++, MATLAB, TensorFlow, Power BI, Tableau, Pandas, Numpy, Matplotlib, Seaborn
 
 - ## Projects
-**Smart Conservatory**
+**Smart Conservatory
 An IoT-based greenhouse automation system to eliminate the need for manual intervention, improving the quality of yield, and achieving maximum efficiency. 
 - Led the three-member team effectively and efficiently to complete the project a month before the final submission.
 - Designed the system using Proteus and interfaced sensors and controllers with Arduino Meg.
