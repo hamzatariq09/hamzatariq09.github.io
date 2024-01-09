@@ -6,6 +6,13 @@
 #### Technical Skills: Python, SQL, R, C++, MATLAB, TensorFlow, Power BI, Tableau, Pandas, Numpy, Matplotlib, Seaborn
 
 ## Projects
+**Twitter Data Pipeline using Airflow**
+Designed and implemented a robust Twitter Data Pipeline using Python libraries, AWS services, and Apache Airflow. The project focused on extracting, transforming, and loading (ETL) Twitter data to facilitate analytics and insights.
+-	Extracted real-time and historical data from Twitter using Twitter API and Pandas.
+-	Orchestrated end-to-end workflow with Apache Airflow, ensuring seamless task scheduling, and ETL automation.
+-	Utilized AWS EC2 instances and S3 to handle computing resources, ensuring scalability and optimal data processing performance and for secure storage, facilitating efficient storage of Twitter data for diverse analyses.
+-	Implemented rigorous error handling and data quality checks to ensure pipeline reliability and data integrity.
+
 **Smart Conservatory**
 An IoT-based greenhouse automation system to eliminate the need for manual intervention, improving the quality of yield, and achieving maximum efficiency. 
 - Led the three-member team effectively and efficiently to complete the project a month before the final submission.
