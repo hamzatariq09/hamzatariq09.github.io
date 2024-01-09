@@ -25,6 +25,7 @@ A mobile application designed to enhance the independence and safety of partiall
 - Utilized Firebase for backend services, contributing to the development of a solution enhancing network security.
 
 **Real-Time Amazon Price Tracker with Email Alerts**
+Designed to monitor the prices of Amazon products in real-time, employing an intelligent script that sends email alerts when prices dip below specified thresholds.
 -	Developed a Python script using BeautifulSoup and requests to track Amazon product prices.
 -	Implemented logic for real-time price monitoring, triggering email alerts when prices fell below set thresholds.
 -	Integrated smtplib for email notifications and scheduled script automation using cron or AWS Lambda.
