@@ -32,6 +32,7 @@ Designed to monitor the prices of Amazon products in real-time, employing an int
 -	Ensured ethical web scraping practices and adherence to Amazon's terms of service.
 
 **Vehicle Number Plate Detection**
+Accurately extracting text information from vehicle number plates, ensuring a high level of precision and reliability in the detection process.
 - Developed a robust system using MATLAB, employing advanced image processing techniques, Optical Character Recognition (OCR), computer vision, and machine learning algorithms.
 - Implemented Optical Character Recognition (OCR) algorithms to accurately extract text information from vehicle number plates, ensuring high precision and reliability in the detection process.
 - Integrated computer vision techniques to handle varying lighting conditions, angles, and distances, enhancing the system's adaptability and performance in real-world scenarios.
